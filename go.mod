@@ -3,12 +3,15 @@ module github.com/mstmdev/no-lock-screen
 go 1.18
 
 require (
-	github.com/go-vgo/robotgo v1.0.0-beta6
+	github.com/go-vgo/robotgo v1.0.0-rc1
 	github.com/no-src/log v0.1.9
 )
 
 require (
+	github.com/gen2brain/shm v0.0.0-20200228170931-49f9650110c5 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
+	github.com/jezek/xgb v0.0.0-20210312150743-0e0f116e1240 // indirect
+	github.com/kbinani/screenshot v0.0.0-20210720154843-7d3a670d8329 // indirect
 	github.com/lufia/plan9stats v0.0.0-20220913051719-115f729f3c8c // indirect
 	github.com/lxn/win v0.0.0-20210218163916-a377121e959e // indirect
 	github.com/otiai10/gosseract v2.2.1+incompatible // indirect
