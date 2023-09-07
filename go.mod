@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/go-vgo/robotgo v1.0.0-rc2
-	github.com/no-src/log v0.2.3
+	github.com/no-src/log v0.3.1
 )
 
 require (
